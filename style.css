@@ -1,0 +1,51 @@
+h1 {
+    color: darkslategray;
+}
+
+body {
+    background: seashell;
+}
+
+
+.container {
+    position: relative;
+    height: 275px;
+    width: 600px;
+    background-image: url(https://png.pngtree.com/background/20211217/original/pngtree-matrix-digital-code-hacker-background-picture-image_1593618.jpg);
+}
+
+.fileHeader {
+    position: absolute;
+    top: 100px;
+    left: 70px;
+    background-color: bisque;
+    text-align: center;
+    width: 27em;
+}
+
+.selectionBox {
+    position: relative;
+    background-color: greenyellow;
+    color: black;
+    border: 0.1em solid grey;
+    padding: 0.2em;
+    width: 10em;
+    text-align: center;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+.textBlue {
+    color: blue;
+}
+
+.box {
+    inline-size: 50em;
+    overflow: hidden;
+}
+
+.linkContainer {
+    display: table;
+}
